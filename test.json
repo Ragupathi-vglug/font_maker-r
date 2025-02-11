@@ -1,0 +1,71 @@
+{ "props":
+  { "ascent": 96
+  , "descent": 32
+  , "em": 128
+  , "encoding": "UnicodeFull"
+  , "lang": "English (US)"
+  , "family": "Tamil Font"
+  , "style": "Regular"
+  , "familyname": "Tamil"
+  , "fontname": "Tamil-Regular"
+  , "fullname": "Tamil Regular"
+  }
+, "glyphs":
+  { "0x0B85": { "src": "0x0B85.svg" },
+    "0x0B86": { "src": "0x0B86.svg" },
+    "0x0B87": { "src": "0x0B87.svg" },
+    "0x0B88": { "src": "0x0B88.svg" },
+    "0x0B89": { "src": "0x0B89.svg" },
+    "0x0B8A": { "src": "0x0B8A.svg" },
+    "0x0B8E": { "src": "0x0B8E.svg" },
+    "0x0B8F": { "src": "0x0B8F.svg" },
+    "0x0B90": { "src": "0x0B90.svg" },
+    "0x0B92": { "src": "0x0B92.svg" },
+    "0x0B93": { "src": "0x0B93.svg" },
+    "0x0B94": { "src": "0x0B94.svg" },
+    "0x0B95": { "src": "0x0B95.svg" },
+    "0x0B99": { "src": "0x0B99.svg" },
+    "0x0B9A": { "src": "0x0B9A.svg" },
+    "0x0B9E": { "src": "0x0B9E.svg" },
+    "0x0B9F": { "src": "0x0B9F.svg" },
+    "0x0BA3": { "src": "0x0BA3.svg" },
+    "0x0BA4": { "src": "0x0BA4.svg" },
+    "0x0BA8": { "src": "0x0BA8.svg" },
+    "0x0BA9": { "src": "0x0BA9.svg" },
+    "0x0BAA": { "src": "0x0BAA.svg" },
+    "0x0BAE": { "src": "0x0BAE.svg" },
+    "0x0BAF": { "src": "0x0BAF.svg" },
+    "0x0BB0": { "src": "0x0BB0.svg" },
+    "0x0BB1": { "src": "0x0BB1.svg" },
+    "0x0BB2": { "src": "0x0BB2.svg" },
+    "0x0BB3": { "src": "0x0BB3.svg" },
+    "0x0BB4": { "src": "0x0BB4.svg" },
+    "0x0BB5": { "src": "0x0BB5.svg" },
+    "0x0BBE": { "src": "0x0BBE.svg" },
+    "0x0BBF": { "src": "0x0BBF.svg" },
+    "0x0BC0": { "src": "0x0BC0.svg" },
+    "0x0BC1": { "src": "0x0BC1.svg" },
+    "0x0BC2": { "src": "0x0BC2.svg" },
+    "0x0BC6": { "src": "0x0BC6.svg" },
+    "0x0BC7": { "src": "0x0BC7.svg" },    
+    "0x0BC8": { "src": "0x0BC8.svg" },
+    "0x0BCD": { "src": "0x0BCD.svg" },
+    "0x0B82": { "src": "0x0B82.svg" },
+    "0x0BCA": { "src": "0x0BCA.svg" },
+    "0x0BCB": { "src": "0x0BCB.svg" },    
+    "0x0BCC": { "src": "0x0BCC.svg" }
+
+  }
+, "sfnt_names":
+  [ ["English (US)", "Copyright", "Copyright (c) 2024 by VGLUG"]
+  , ["English (US)", "Family", "Tamil"]
+  , ["English (US)", "SubFamily", "Regular"]
+  , ["English (US)", "UniqueID", "Tamil 2024-07-27"]
+  , ["English (US)", "Fullname", "Tamil Regular"]
+  , ["English (US)", "Version", "Version 001.000"]
+  , ["English (US)", "PostScriptName", "Tamil-Regular"]
+  ]
+, "input": "svg/"
+, "output": [ "tamilfonts.ttf"]
+, "# vim: set et sw=2 ts=2 sts=2:": false
+}
